@@ -6,7 +6,7 @@
 
 
 
+Bevor man mit Cloud Computering startet, beziehungsweise eine VM in der Cloud erstell, sollte man verstehen was eine Cloud ist. 
 
 ## 1: Was ist eine Cloud? 
-Bevor man irgendetwas in einem Cloud-dienst entwickelt oder erstell, muss man das Grundkonzept verstehen und erklähren können. 
- 
+Eine Cloud ist:
