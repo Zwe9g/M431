@@ -19,7 +19,7 @@ User können Fragen stellen, auf die der Bot antwortet.
 Die Cloud ist ein Rechenzetrum, welches übers Internet läuft. Sie beinhaltet: Computerservices, Server, Speicher und co.  
 
 
-![01CloudComputing-01.jpg](M431/Dokumentation/Images/01CloudComputing-01.jpg "Hier sollte ein Bild stehen")
+![01CloudComputing-01.jpg]( M431/Dokumentation/Images/01CloudComputing-01.jpg )
 
 
 ## Vorteile: 
