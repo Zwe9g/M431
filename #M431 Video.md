@@ -21,4 +21,5 @@ Verwendet wird hier das kostenlose Aufnahmeprogramm OBS.
 
 
 ## Animationen
-Ich würde gerne eine Animation machen um alles etwas schöner zu Präsentieren.  
+Ich würde gerne eine Animation machen um alles etwas schöner zu Präsentieren. 
+ 
