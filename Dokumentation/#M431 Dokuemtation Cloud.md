@@ -11,6 +11,7 @@ Hier entsteht die Dokumentation zum Thema Cloud Computing
 
 # Einführung:
 In diesem Modul, möchte ich gerne eine Chatbot auf AWS entwickeln und ein Lernvideo erstellen um mein Wissen weiter zu geben. 
+Was ist ein Chatbot? 
 Bei einem Chatbot handelt es sich um ein Bot, welcher das Chatten mit einem technischen System erlaubt. 
 User können Fragen stellen, auf die der Bot antwortet. 
 
@@ -19,7 +20,7 @@ User können Fragen stellen, auf die der Bot antwortet.
 Die Cloud ist ein Rechenzetrum, welches übers Internet läuft. Sie beinhaltet: Computerservices, Server, Speicher und co.  
 
 
-![Hier sollte ein Bild stehen](M431/Dokumentation/Images/01CloudComputing-01.jpg )
+![Hier sollte ein Bild stehen](Images/01CloudComputing-01.jpg )
 
 
 ## Vorteile: 
