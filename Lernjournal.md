@@ -4,6 +4,7 @@ Dabei soll der Text nicht "0 8 15" sein sondern Fleisch am Stecken haben. Wichti
 
 
 Unter diesem Link finden Sie mein Lernjournal: 
+
 https://docs.google.com/document/d/1uCP2h433QGKqeBlSgtrjE5aLgbdq9HB2XvqsWFrtifU/edit
 
 
