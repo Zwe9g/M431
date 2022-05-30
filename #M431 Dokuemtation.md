@@ -2,16 +2,22 @@
 
 Hier entsteht die Dokumentation zum Thema Cloud Computing 
 
-# Dokumentation zum Thema Chatbot 
-WCHTIGE INFO!! Bevor man mit Cloud Computing startet, beziehungsweise eine VM in der Cloud erstell, sollte man verstehen was eine Cloud ist.
+# Chatbot Dokumentation  
+
+# Inhaltsverzeichnis
+- Einführung 
+- Was ist eine Cloud 
+- 
+
+# Einführung:
+In diesem Modul, möchte ich gerne eine Chatbot auf AWS entwickeln und ein Lernvideo erstellen um mein Wissen weiter zu geben. 
+Bei einem Chatbot handelt es sich um ein Bot, welcher das Chatten mit einem technischen System erlaubt. 
+User können Fragen stellen, auf die der Bot antwortet. 
 
 
-# 1: Was ist eine Cloud? 
+# Was ist eine Cloud:  
 Die Cloud ist ein Rechenzetrum, welches übers Internet läuft. Sie beinhaltet: Computerservices, Server, Speicher und co.  
 
 ## Vorteile: 
 Es ermöglicht, dass einrichtet von einem virtuellen Büro. Dies bietet den Mitarbeitern eine gewisse flexibilität sich von überall aus anzumelden... 
 
-
-Bild test: 
-Downloads\Cloud-test.jpeg
