@@ -4,3 +4,5 @@ Dies ist ein System auf GitLap oder GitHUb, mit welchem man Verzeichnise zur Spe
 
 
 # Wie erstellt man ein Repository 
+1. Zu erst, solle man ein Account bei GitLab oder GitHub anlegen. In meinem Falle GitHub 
+2. Nach dem erstellen eines Accounts, muss man
