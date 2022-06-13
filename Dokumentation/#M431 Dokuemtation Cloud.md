@@ -1,19 +1,9 @@
-##M431 Dokuemtation 
-
-Hier entsteht die Dokumentation zum Thema Cloud Computing 
-
-# Chatbot Dokumentation  
-
-# Inhaltsverzeichnis
-- Einführung 
-- Was ist eine Cloud 
+# M431 Dokuemtation Cloud 
 
 
 # Einführung:
-In diesem Modul, möchte ich gerne eine Chatbot auf AWS entwickeln und ein Lernvideo erstellen um mein Wissen weiter zu geben. 
-Was ist ein Chatbot? 
-Bei einem Chatbot handelt es sich um ein Bot, welcher das Chatten mit einem technischen System erlaubt. 
-User können Fragen stellen, auf die der Bot antwortet. 
+In dieser Dokumentation, möchte ich euch gerne die Cloud etwas näher bringen. 
+Wenn euch das lesen zu langweilig findet, könnt ihr euch das Lernvideo anschauen: 
 
 
 # Was ist eine Cloud:  
@@ -29,47 +19,53 @@ Ganz simpel gesagt, es funktioniert so ählich wie eine externe SSD / HDD, wenn 
 ![Hier sollte ein Bild stehen](Images/01CloudComputing-01.jpg )
 
 
-## Die Typen einer Cloud: 
+# Die Typen einer Cloud: 
 
 In Cloud Computing gibt es zwei unterschiedliche Themen: 
 "Deployment Model" und "Service Model"
 
-# Deployment Model 
+## Deployment Model   
 Deployment Model ist wiederum in drei Teile unterteilt. 
-- Public Cloud 
-- Privat Cloud 
-- Hybrid Cloud 
+
+    - Public Cloud 
+    - Privat Cloud 
+    - Hybrid Cloud 
 
 
 Stehlt euch nun wieder vohr, Ihr müsst zur arbeit und habt drei Möglichkeiten. 
 
 ## Public Cloud: 
-- Als erstes habt ihr Züge
-- Sie stellen eine Public Cloud da 
-- In diesem Falle, ist die Cloud Infrastrukur zugänglich in Internet. 
+
+    - Als erstes habt ihr Züge
+    - Sie stellen eine Public Cloud da 
+    - In diesem Falle, ist die Cloud Infrastrukur zugänglich in Internet. 
 
 
 ## Private Cloud:
-- Ihr fäht mit eurem Sportwagen
-- Dies stellt die Private Cloud da
-- Hier wird die Cloud nur auf eure Bude ausgerichtet und steht nur euch zu. 
+
+    - Ihr fäht mit eurem Sportwagen
+    - Dies stellt die Private Cloud da
+    - Hier wird die Cloud nur auf eure  Bude ausgerichtet und steht nur euch zu. 
 
 ## Hybride Cloud: 
-- Dies ist das Taxi 
-- Dies steht die Hybride Cloud dar 
-- Das ganze ist ein Mix zwischen Public und Privat 
+
+    - Dies ist das Taxi 
+    - Dies steht die Hybride Cloud dar 
+    - Das ganze ist ein Mix zwischen Public und Privat 
 
 
 # Service Model
 Service Model ist auch wieder unterteilt in drei Teile:      
-- IAAS 
-- PAAS
-- SAAS
+    
+    IAAS 
+    PAAS
+    SAAS
 
 ## IAAS 
-- Steht für "Infrastrucktur as a Service"
-- Hier bekommen die User Zutritt zu "Basic Computer Infrastruktur"
-- Dies wird in den meisten Fällen von IT-Administratoren benutzt
+
+    - Steht für "Infrastrucktur as a Service"
+    - Hier bekommen die User Zutritt zu "Basic Computer Infrastruktur"
+    - Dies wird in den meisten Fällen von IT-Administratoren benutzt
 - BEi IAAS muss Ihr euch nur um Applicationen, Data, Runtime, Middleware und o/s kümmern 
 - Den Rest übernimmt dier Cloudproieder
 
