@@ -33,6 +33,8 @@ Deployment Model ist wiederum in drei Teile unterteilt.
     - Hybrid Cloud 
 
 
+![Hier sollte ein Bild stehen](Images/Public_Private.png )
+
 Stehlt euch nun wieder vohr, Ihr müsst zur arbeit und habt drei Möglichkeiten. 
 
 ## Public Cloud: 
