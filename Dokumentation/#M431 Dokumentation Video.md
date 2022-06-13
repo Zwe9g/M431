@@ -23,3 +23,22 @@ Verwendet wird hier das kostenlose Aufnahmeprogramm OBS.
 ## Animationen
 Ich würde gerne eine Animation machen um alles etwas schöner zu Präsentieren. 
  
+
+# Projekt
+- Erster Schritt, ein Script erstellen 
+- Dies Script einüben bzw. überarbeiten
+- Überlegen, wo man dreht
+- Drehen
+- Schneiden 
+- Überprüfen 
+- Fertig
+
+
+## Script: 
+Intro: 
+- WAS IST CLOUD COMPUTING???
+  Das möchte ich euch heute in knappen 5 Minuten mitteilen. Hallöchen, ich bins Timm und los gehts. 
+
+- 
+
+  
