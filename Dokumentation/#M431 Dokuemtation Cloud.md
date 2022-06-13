@@ -33,7 +33,7 @@ Deployment Model ist wiederum in drei Teile unterteilt.
     - Hybrid Cloud 
 
 
-![Hier sollte ein Bild stehen](Images/Public_Private.png )
+![Hier sollte ein Bild stehen](Images/Public_Private.jpg)
 
 Stehlt euch nun wieder vohr, Ihr müsst zur arbeit und habt drei Möglichkeiten. 
 
@@ -83,7 +83,7 @@ Service Model ist auch wieder unterteilt in drei Teile:
 - Dies beinhaltet: Hosting und Managing Appliaktionen 
 - Für Unternehmen, die nicht wirklich IT-Geräte benötigen
 - Hier wird alles gestellt von dem Cloud-Unternehmen 
-T
+
 
 
 
