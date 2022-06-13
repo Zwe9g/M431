@@ -13,12 +13,6 @@ Hier entstehen die Ideen und das Script fürs Video
 - Script
 - Zeit 
 
-## Aufnahmeprogramm
-Bei der mündlichen Aufnahme, verwende ich OBS. Hier kann ich nämlich nebst der Stimme auch ein Video aufnehmen. 
-Dies währe dann Praktisch wenn ich eine Animation besitze. Dann könnte ich auf die Animation sprechen. 
-
-Verwendet wird hier das kostenlose Aufnahmeprogramm OBS. 
-
 # Projekt
 - Erster Schritt, ein Script erstellen 
 - Dies Script einüben bzw. überarbeiten
@@ -28,7 +22,14 @@ Verwendet wird hier das kostenlose Aufnahmeprogramm OBS.
 - Überprüfen 
 - Fertig
 
+## Aufnahmeprogramm
+Bei der mündlichen Aufnahme, verwende ich OBS. Hier kann ich nämlich nebst der Stimme auch ein Video aufnehmen. 
+Dies währe dann Praktisch wenn ich eine Animation besitze. Dann könnte ich auf die Animation sprechen. 
 
+Verwendet wird hier das kostenlose Aufnahmeprogramm OBS. 
+
+
+# Script:
 
 ## Videoaufbau:
 - Intro 	  = 	Kurz vor die Kamera stehen | Frage Stellen 
@@ -41,8 +42,6 @@ Wo wird gedreht?:
 - Drausen ein Bild einer Wolke zeigen 
 - In meinem Zimmer an einer neutrallen Wand oder an Tisch mit Mikrofone 
 
-
-# Video Script:
 # Intro: 
 
 Was ist Cloud Computing? 
