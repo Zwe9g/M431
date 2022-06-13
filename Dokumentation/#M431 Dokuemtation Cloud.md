@@ -35,26 +35,19 @@ Deployment Model ist wiederum in drei Teile unterteilt.
 
 ![Hier sollte ein Bild stehen](Images/Public_Private.jpg)
 
-Stehlt euch nun wieder vohr, Ihr müsst zur arbeit und habt drei Möglichkeiten. 
-
+ 
 ## Public Cloud: 
 
-    - Als erstes habt ihr Züge
-    - Sie stellen eine Public Cloud da 
-    - In diesem Falle, ist die Cloud Infrastrukur zugänglich in Internet. 
+    -
 
 
 ## Private Cloud:
 
-    - Ihr fäht mit eurem Sportwagen
-    - Dies stellt die Private Cloud da
-    - Hier wird die Cloud nur auf eure  Bude ausgerichtet und steht nur euch zu. 
+    -  
 
 ## Hybride Cloud: 
 
-    - Dies ist das Taxi 
-    - Dies steht die Hybride Cloud dar 
-    - Das ganze ist ein Mix zwischen Public und Privat 
+    - 
 
 
 # Service Model
@@ -64,25 +57,28 @@ Service Model ist auch wieder unterteilt in drei Teile:
     PAAS
     SAAS
 
+![Hier sollte ein Bild stehen](Images/IAAS_PAAS_SAAS.jpg)
+
+
 ## IAAS 
 
     - Steht für "Infrastrucktur as a Service"
     - Hier bekommen die User Zutritt zu "Basic Computer Infrastruktur"
     - Dies wird in den meisten Fällen von IT-Administratoren benutzt
-- BEi IAAS muss Ihr euch nur um Applicationen, Data, Runtime, Middleware und o/s kümmern 
-- Den Rest übernimmt dier Cloudproieder
+    - BEi IAAS muss Ihr euch nur um Applicationen, Data, Runtime, Middleware und o/s kümmern 
+    - Den Rest übernimmt dier Cloudproieder
 
 ## PAAS
-- Steht für "Plattform as a Service"
-- Brauchbar für Defeloping, Testing und Manage von Aplikationen
-- Dies erläubt den User, die Applikationen zu entwikel, ohne die Cloud zu Managen / Maintainen
-- Sie müssen sich nur um Applicationen und Data kümmern 
+    - Steht für "Plattform as a Service"
+    - Brauchbar für Defeloping, Testing und Manage von Aplikationen
+    - Dies erläubt den User, die Applikationen zu entwikel, ohne die Cloud zu Managen / Maintainen
+    - Sie müssen sich nur um Applicationen und Data kümmern 
 
 ## SAAS
-- Steht für "Software as a Servie"
-- Dies beinhaltet: Hosting und Managing Appliaktionen 
-- Für Unternehmen, die nicht wirklich IT-Geräte benötigen
-- Hier wird alles gestellt von dem Cloud-Unternehmen 
+    - Steht für "Software as a Servie"
+    - Dies beinhaltet: Hosting und Managing Appliaktionen 
+    - Für Unternehmen, die nicht wirklich IT-Geräte benötigen
+    - Hier wird alles gestellt von dem Cloud-Unternehmen 
 
 
 
