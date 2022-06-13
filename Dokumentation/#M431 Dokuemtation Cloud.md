@@ -83,6 +83,7 @@ Service Model ist auch wieder unterteilt in drei Teile:
 - Dies beinhaltet: Hosting und Managing Appliaktionen 
 - Für Unternehmen, die nicht wirklich IT-Geräte benötigen
 - Hier wird alles gestellt von dem Cloud-Unternehmen 
+T
 
 
 
