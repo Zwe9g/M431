@@ -67,6 +67,7 @@ Service Model ist auch wieder unterteilt in drei Teile:
 - SAAS
 
 ## IAAS 
+- Steht für "Infrastrucktur as a Service"
 - Hier bekommen die User Zutritt zu "Basic Computer Infrastruktur"
 - Dies wird in den meisten Fällen von IT-Administratoren benutzt
 - BEi IAAS muss Ihr euch nur um Applicationen, Data, Runtime, Middleware und o/s kümmern 
