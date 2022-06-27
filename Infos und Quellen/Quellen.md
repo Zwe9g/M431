@@ -28,3 +28,16 @@ https://www.youtube.com/watch?v=M988_fsOSWo
 https://www.youtube.com/watch?v=bgPuPSPZe2U
 
 
+# Chatbot:
+
+## Amazon Lex: 
+- Was ist Amazon Lex: 
+https://docs.aws.amazon.com/de_de/lex/latest/dg/what-is.html
+
+
+
+
+
+
+
+
