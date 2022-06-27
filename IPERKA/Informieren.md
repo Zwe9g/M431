@@ -10,6 +10,7 @@ Die grosse Informationsfase beginnt erst, wenn ich mich für ein Projekt einschi
 
 
 Hier findet Ihr einen Link zu Planen: 
-
+![Dieser Link soll dich zu dem IPERKA Model Planen führen](IPERKA/Planung.md)
 
 Hier findet Ihr einen Link zu Entscheiden:
+![Dieser Link soll dich zu dem IPERKA Model Entscheiden führen](IPERKA/Entscheidung.md)
