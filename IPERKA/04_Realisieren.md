@@ -20,7 +20,7 @@ Ich mache meinen Chatbot mit Amazon Lex, dies ist ein Amazon Service, welcher di
 
 
 Amazon Lex kann man ganz einfach in der Konsole herunterladen. Hierfür scheibet man in der Suchleiste nur Amazon Lex und läd dies herunter. 
-
+(Bild einfügen)
 
 Nachdem ich nun Lex heruntergeladen habe, habe ich mir ein paar Videos angeschaut. Hier habe ich mir Insperationen geholt, was ich erstellen möchte. 
 Leider waren manche Filme nicht so spannend und es gab da auf YT so coole Thumbnails und zack war schon abend :(. 
@@ -30,6 +30,7 @@ Der erste Bot, sollte Pizza bestellungen entgegennehmen. Dies habe ich in der Le
 Am Ende muss man den Bot erstellen und testen. Während diesem Schritt ist eine Meldung aufgetreten, welche gemeldet hat, dass Englisch nicht unterschtützt wird. Darauf hin habe ich die Sprache gelöscht und sehr warscheinlich auch den Bot. Dumm gelaufen. Bis ich das aber gemerkt habe ist eine kleine Zeit vergangen. 
 
 Bei dem zweiten Bot handelt es sich um einen Blumenbestellungsbot. Dieser sollte die Kunden begrüssen und diese bitten Ihre Bestellung abzugeben. Zudem fragt er den Kunden nach dessen Wohnort, Adresse, E-Mail und Namen umd die Bestellung aufzunehmen. Wenn alle Abfragen erfolgt sind, bendet er die Bestellung mit der Frage: Kann ich diese Bestellung bearbeiten? 
+(Bild einfügen)
 
 Wenn der Kunde nun mit YES antwortet wird diese Bearbeitet, antwortet der Kunde mit NO wird die Bestellung abgebrochen. 
 
