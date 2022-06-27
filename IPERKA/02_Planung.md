@@ -34,5 +34,5 @@ Das Projekt habe ich mit der "GANT" Methode umgesetzt:
 
 
 Hier findet Ihr einen Link zu Entscheiden:
-![Dieser Link soll dich zu dem IPERKA Model Entscheiden führen](03_Entscheidung.md)    
+![03_Entscheidung](03_Entscheidung.md)    
 
