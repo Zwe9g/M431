@@ -6,7 +6,8 @@ Nach dem die Kanditaten feststehen, habe ich mich an die Arbeit gemacht und Info
 ![Hier sollte ein Bild stehen](Images/)
 
 
-Die grosse Informationsfase beginnt erst, wenn ich mich für ein Projekt einschieden habe. 
+Die Informationen zu Cloud, Chatbot und Video findet Ihr im Ornder Dokumentationen. 
+
 
 
 Hier findet Ihr einen Link zu Planen: 
