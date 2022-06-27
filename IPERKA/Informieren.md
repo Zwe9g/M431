@@ -1,16 +1,15 @@
 # Informieren: 
-Ich habe mir ein Mindemap erstellt, welches mir meine Grundlegenden Informationen auflistet. 
+Als erstes habe ich mir Projektideen ausgedacht und diese in ein Paint-Mindemap aufgeschrieben. 
+Nach dem die Kanditaten feststehen, habe ich mich an die Arbeit gemacht und Informationen gesucht. Die grundlegenden Informationen habe ich ins Midemap geschriben.  
+
 
 ![Hier sollte ein Bild stehen](Images/)
 
 
-Zudem findet ihr hier unten Links zu verschiedenen Informationen: 
-
-## AWS Chatbot 
+Die grosse Informationsfase beginnt erst, wenn ich mich für ein Projekt einschieden habe. 
 
 
-## VPN auf Cisco 
+Hier findet Ihr einen Link zu Planen: 
 
 
-## Solareinspeiseberechner auf einer Webseite
-
+Hier findet Ihr einen Link zu Entscheiden:
