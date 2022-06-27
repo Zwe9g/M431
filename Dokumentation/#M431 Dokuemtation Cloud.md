@@ -38,16 +38,9 @@ Deployment Model ist wiederum in drei Teile unterteilt.
  
 ## Public Cloud: 
 
-    -
-
-
-## Private Cloud:
-
-    -  
+## Private Cloud:   
 
 ## Hybride Cloud: 
-
-    - 
 
 
 # Service Model
