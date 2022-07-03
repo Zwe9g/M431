@@ -37,6 +37,9 @@ Deployment Model ist wiederum in drei Teile unterteilt.
 
  
 ## Public Cloud: 
+Bei der Public Cloud handelt es sich um einen Cloudmodel, wo Computerdienste über das Internet von verschiedenen Kunden genutzt werden. 
+Die Service werden von dem Kunden nicht vor Ort geostet. 
+Unternehmen, speicher hier gerne Ihre nicht so sensyblen Daten. 
 
 ## Private Cloud:   
 Dies ist ein Cloud-Model, bei dem die Infrastruktur nur einem Unternehmen zugewiesen ist. Das heisst, nur das Unternehmen hat darauf zugriff, Externe Benutzer nicht! 
@@ -45,7 +48,8 @@ In der Regel, sind die Unternehmen selber verantwortlich, dass System in Schuss 
 Für eine Private Cloud, benötigt man einiges and IT-Know how. Im Gegensatzt erhält man mehr Kontrolle und Sicherheit als bei den anderen Modellen.  
 
 ## Hybride Cloud: 
-
+Dieses Cloudmodel ist eine kombination aus Public und Private. 
+Der grosse Vorteil dieses Model ist, man kann die Daten problemlos zwischen Private und Public hin und her schieben.  
 
 # Service Model
 Service Model ist auch wieder unterteilt in drei Teile:      
