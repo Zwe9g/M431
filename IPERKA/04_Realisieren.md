@@ -47,3 +47,4 @@ Als erstes wurden die allgemeinen Informationen ausgefüllt, Begrüssung, Wie he
 Als zweiter Schritt wurden die einzelnen Slots erstellt und mit leben befüllt. Wie zum beispiel der Bestellungsbot. 
 Im Anschluss, wird getestet und fehler behoben. 
 Dann wurde sich an die Verknüpfung gewagt. Das ziehl war ja, eine Auswahl zu geben wo der Kunde drauf Antworten muss. Allerdings wollte es dann nicht zu dem jeweilgen Abteil switchen. Auch wenn es führ mich logisch danach aussah. Auch ein Switchen zu einer anderen Abseicht habe ich leider nicht hinbekommen. Wenn ich das geschafft hätte, währe die Übersicht viel geiler gewesen. Hat aber wie gesagt leider nicht funktioniert. 
+An diesem Problem habe ich mit den ganzen Sonntag die Zähne ausgebissen und habe leider nicht wirklich was hinbekommen. Am Ende habe ich noch etwas endekt, wie man mit den {} auf ein Slot verweisen kann. Komischer Weise hat das aber nicht funktioniert. Computers halt :)
