@@ -38,3 +38,12 @@ Das Erstellen des Bots hat einwandfrei funktioniert und funktioniert auch, aller
 
 Als dritten Bot möchte ich gende einen erstellen, welcher mit den Kunden komuniziert und Ihnen fragen stellt und anders rum. 
 Dies wird sicher etwas schwieriger aber ich denke mit der gewissen Motivation machbar. 
+
+
+## Step 3: 
+Als vierten und Finalen Chatbot wollte ich einen Service-Bot erstellen. Dieser Bot sollte entweder eine Anfrage zur Blumenbestellung entgegen nehmen oder einfach mit dem Kunden komunizieren und Ihn gegebenfalls aufheitern. 
+Hier führ muss nun ein neues Projekt erstellt werden, welches den Namen ServiceBot erhalten hat. 
+Als erstes wurden die allgemeinen Informationen ausgefüllt, Begrüssung, Wie heisst die Person? usw. 
+Als zweiter Schritt wurden die einzelnen Slots erstellt und mit leben befüllt. Wie zum beispiel der Bestellungsbot. 
+Im Anschluss, wird getestet und fehler behoben. 
+Dann wurde sich an die Verknüpfung gewagt. Das ziehl war ja, eine Auswahl zu geben wo der Kunde drauf Antworten muss. Allerdings wollte es dann nicht zu dem jeweilgen Abteil switchen. Auch wenn es führ mich logisch danach aussah. Auch ein Switchen zu einer anderen Abseicht habe ich leider nicht hinbekommen. Wenn ich das geschafft hätte, währe die Übersicht viel geiler gewesen. Hat aber wie gesagt leider nicht funktioniert. 
