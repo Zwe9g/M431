@@ -20,7 +20,6 @@ Ganz simpel gesagt, es funktioniert so ählich wie eine externe SSD / HDD, wenn 
 
 
 # Die Typen einer Cloud: 
-## Vertiefter Arbeiten
 
 In Cloud Computing gibt es zwei unterschiedliche Themen: 
 "Deployment Model" und "Service Model"
