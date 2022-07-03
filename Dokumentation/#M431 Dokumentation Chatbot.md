@@ -9,3 +9,4 @@ Was ist ein Chatbot?
 Bei einem Chatbot handelt es sich um ein Bot, welcher das Chatten mit einem technischen System erlaubt. 
 User können Fragen stellen, auf die der Bot antwortet. 
 
+Zudem kann ein Chatbot auch kontrollieren ob ein System weiter läuft und wenn nicht gegebenfalls Alarm schlagen. 
