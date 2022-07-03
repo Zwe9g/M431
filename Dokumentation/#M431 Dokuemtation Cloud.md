@@ -83,6 +83,7 @@ Service Model ist auch wieder unterteilt in drei Teile:
 
 
 
-Hier findet Ihr eine Link zur Dokumentation Chatbot und Vide: 
+Hier findet Ihr eine Link zur Dokumentation Chatbot und Video: 
 
+![Dokumentation_Cloud](#M431 Dokumentation Chatbot.md)
 ![Dokumentation_Cloud](#M431 Dokumentation Video.md)
