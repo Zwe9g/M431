@@ -39,6 +39,10 @@ Deployment Model ist wiederum in drei Teile unterteilt.
 ## Public Cloud: 
 
 ## Private Cloud:   
+Dies ist ein Cloud-Model, bei dem die Infrastruktur nur einem Unternehmen zugewiesen ist. Das heisst, nur das Unternehmen hat darauf zugriff, Externe Benutzer nicht! 
+In der Regel, sind die Unternehmen selber verantwortlich, dass System in Schuss zuhalten. 
+
+Für eine Private Cloud, benötigt man einiges and IT-Know how. Im Gegensatzt erhält man mehr Kontrolle und Sicherheit als bei den anderen Modellen.  
 
 ## Hybride Cloud: 
 
