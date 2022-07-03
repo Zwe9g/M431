@@ -48,3 +48,18 @@ Als zweiter Schritt wurden die einzelnen Slots erstellt und mit leben befüllt. 
 Im Anschluss, wird getestet und fehler behoben. 
 Dann wurde sich an die Verknüpfung gewagt. Das ziehl war ja, eine Auswahl zu geben wo der Kunde drauf Antworten muss. Allerdings wollte es dann nicht zu dem jeweilgen Abteil switchen. Auch wenn es führ mich logisch danach aussah. Auch ein Switchen zu einer anderen Abseicht habe ich leider nicht hinbekommen. Wenn ich das geschafft hätte, währe die Übersicht viel geiler gewesen. Hat aber wie gesagt leider nicht funktioniert. 
 An diesem Problem habe ich mit den ganzen Sonntag die Zähne ausgebissen und habe leider nicht wirklich was hinbekommen. Am Ende habe ich noch etwas endekt, wie man mit den {} auf ein Slot verweisen kann. Komischer Weise hat das aber nicht funktioniert. Computers halt :)
+
+
+## Wurde die Ziele eingehalten? 
+Ansich bin ich sehr glücklich über mein Projekt. Ich habe doch einiges über Cloud gelernt, wo ich zuvor noch nichts wusste. 
+Auch die Abeit hat mit sehr viel Spass gemacht und war zu keiner Zeit langweilig, na gut es gab da eins zwei Momente wo die Motivation nicht ganz da war. Aber das gibt es immer. 
+
+Ich habe bestimmte Termine, die ich mir gestellt habe nicht ganz eingehalten. Wie zum Beispiel die Produktion des Videos wurde eine Woche später fertigt oder der Chabot welcher eine Woche später fertig wurde und immer noch nicht ganz so funktioniet aber ansich bin ich sehr zufrieden. 
+
+
+## Teilerfolge? 
+Die gab es auf jeden fall. 
+- Die Erstellung des ersten Bots ohne hilfe eines Videos wo der Bot auch funktionierte. 
+- Das Wissen, welches ich mir aufgebaut habe. 
+- Der Spass
+
