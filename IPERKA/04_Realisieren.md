@@ -43,10 +43,13 @@ Dies wird sicher etwas schwieriger aber ich denke mit der gewissen Motivation ma
 ## Step 3: 
 Als vierten und Finalen Chatbot wollte ich einen Service-Bot erstellen. Dieser Bot sollte entweder eine Anfrage zur Blumenbestellung entgegen nehmen oder einfach mit dem Kunden komunizieren und Ihn gegebenfalls aufheitern. 
 
+Dies sind Bilder wie der Chat aufgebaut ist
 <img src="../Dokumentation/Images/Gesprächsfluss.png">
 
 
 <img src="../Dokumentation/Images/Gesprächsfluss2.png">
+
+-------
 
 Hier führ muss nun ein neues Projekt erstellt werden, welches den Namen ServiceBot erhalten hat. 
 Als erstes wurden die allgemeinen Informationen ausgefüllt, Begrüssung, Wie heisst die Person? usw. 
@@ -55,7 +58,11 @@ Im Anschluss, wird getestet und fehler behoben.
 Dann wurde sich an die Verknüpfung gewagt. Das ziehl war ja, eine Auswahl zu geben wo der Kunde drauf Antworten muss. Allerdings wollte es dann nicht zu dem jeweilgen Abteil switchen. Auch wenn es führ mich logisch danach aussah. Auch ein Switchen zu einer anderen Abseicht habe ich leider nicht hinbekommen. Wenn ich das geschafft hätte, währe die Übersicht viel geiler gewesen. Hat aber wie gesagt leider nicht funktioniert. 
 An diesem Problem habe ich mit den ganzen Sonntag die Zähne ausgebissen und habe leider nicht wirklich was hinbekommen. Am Ende habe ich noch etwas endekt, wie man mit den {} auf ein Slot verweisen kann. Komischer Weise hat das aber nicht funktioniert. Computers halt :)
 
+Hier findest du ein Bild der Slots:
 <img src="../Dokumentation/Images/AmazonLex.png">
+
+------
+
 
 ## Probleme: 
 Beim erstellen des finalen Bots, kamm es immer wieder zu fehler, da etwas nicht existiert oder zu dem gewünschten Slot / Abteil nicht switchen möchte. 
