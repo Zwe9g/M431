@@ -85,7 +85,6 @@ Wennn man das zweite Bild anschaut, sieht man das der Slot ausgeführt wird, wen
 
 <img src="../Dokumentation/Images/2Bild.png">
 
-
 ----
 
 ## Wurde die Ziele eingehalten? 
