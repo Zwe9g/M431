@@ -23,6 +23,18 @@ Ich habe mich zwischen drei Projekten enschrieden,dies ist das Ergebnis.
 
     Entscheiden für AWS Chatbot
 
+Die meisten Prozente bekommt man bei der Sicht für die berufliche Zukunft. 
+Ich möchte gerne ein Programm erstellen, welches mich einen gewissen Grundstein für die Zukunft gibt. 
+Da hat der AWS Chatbot 10 Punkte erhalten, da ich Cloud ein sehr spannendes Thema finde und gerne dies in der Zukunf machen würde. 
+Einen VPN-Router zu erstellen, wird sicher auch noch in Zukunft eine Rolle spielen. Im Netzwerkbereich. 
+Eine Webseite erstellen, wird bei uns von den Applis gemacht, ist aber sicher auch Interessant. 
+
+Interess ist auch ein wichtiger Teil, da ich nicht ein Projekt erstellen will, welches mich nicht Interessiert! 
+Cloud interessiert mich sehr und ist sicher auch spannend. 
+Ein VPN-Router währe für mich auch interessant aber nicht so mega:)
+
+Die restlichen Punke sind hoffentlich Selbserklährend 
+
 
 Hier findet Ihr einen Link zu Realisierung:
 ![04_Realisiern](04_Realisieren.md)                   
