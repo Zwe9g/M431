@@ -50,6 +50,15 @@ Dann wurde sich an die Verknüpfung gewagt. Das ziehl war ja, eine Auswahl zu ge
 An diesem Problem habe ich mit den ganzen Sonntag die Zähne ausgebissen und habe leider nicht wirklich was hinbekommen. Am Ende habe ich noch etwas endekt, wie man mit den {} auf ein Slot verweisen kann. Komischer Weise hat das aber nicht funktioniert. Computers halt :)
 
 
+## Probleme: 
+Beim erstellen des finalen Bots, kamm es immer wieder zu fehler, da etwas nicht existiert oder zu dem gewünschten Slot / Abteil nicht switchen möchte. 
+
+Ein grosses Problem, waren auf jednfall die Fehlermeldungen. Diese konnte ich ma Anfang noch nicht verstehen und daher wusste ich nicht was der Fehler ist. Richtung Ende habe ich diese dann lagsam verstanden. 
+
+Ein grosses Problem, welches mir sehr gestört hat, war die nicht vorhandene Möglichkeit die Abteile zu Switches. Dies hätte mir geholfen, die Übersicht zubehalten. Da dies nun nicht funktioniert hat, muss ich die Slots mit den Befehlen abrufen. 
+Problem, es wird immer unübersichtlicher. Ich habe die Slots erstellt und die Verbindung hinzugefügt. Nach meiner Logic sollte dies nun Funktionieren. Dies war leider nicht der Fall. An diesem Problem habe ich fast den ganzen Sonntag gehangen und keine Lösung gefunden.   
+
+
 ## Wurde die Ziele eingehalten? 
 Ansich bin ich sehr glücklich über mein Projekt. Ich habe doch einiges über Cloud gelernt, wo ich zuvor noch nichts wusste. 
 Auch die Abeit hat mit sehr viel Spass gemacht und war zu keiner Zeit langweilig, na gut es gab da eins zwei Momente wo die Motivation nicht ganz da war. Aber das gibt es immer. 
