@@ -2,6 +2,8 @@
 Im Realisieren geht es um die Erarbeitung des Projektes. 
 Das heisst, hier muss man den Zeitplan im Auge behalten und die Ziele erreichen, die man sich gesetzt hat. Auch wenn man seinen Hintern bewegen muss :). 
 
+----
+
 ## Step 1: 
 Nach dem Informieren, Planen und Entscheiden beginnt die Realisierung des Projektes. 
 Hierbei habe ich mich entschieden einen Chatbot auf AWS zu erstellen. 
@@ -13,6 +15,8 @@ Wichtig ist zum Start:
  
 
 Der erste Step ist nun abgeschlossen. Nun geht es weiter zu 
+
+----
 
 ## Step 2: 
 Im zweiten Step wird ein Chatbot erstellt.
@@ -63,7 +67,6 @@ Hier findest du ein Bild der Slots:
 
 ------
 
-
 ## Probleme: 
 Beim erstellen des finalen Bots, kamm es immer wieder zu fehler, da etwas nicht existiert oder zu dem gewünschten Slot / Abteil nicht switchen möchte. 
 
@@ -72,6 +75,13 @@ Ein grosses Problem, waren auf jednfall die Fehlermeldungen. Diese konnte ich ma
 Ein grosses Problem, welches mir sehr gestört hat, war die nicht vorhandene Möglichkeit die Abteile zu Switches. Dies hätte mir geholfen, die Übersicht zubehalten. Da dies nun nicht funktioniert hat, muss ich die Slots mit den Befehlen abrufen. 
 Problem, es wird immer unübersichtlicher. Ich habe die Slots erstellt und die Verbindung hinzugefügt. Nach meiner Logic sollte dies nun Funktionieren. Dies war leider nicht der Fall. An diesem Problem habe ich fast den ganzen Sonntag gehangen und keine Lösung gefunden.   
 
+Die definierung der Variable hat zwar funktioniert, dass Programm hat dies leider nicht erkannt. 
+Das Problem, es wird übersprungen ohne dies Auszuführen. 
+Wie man im Bild sieht, habe ich den Hacken entfehrt. Wenn ich den Hacken nicht entfehrne wird dieser Auftrag immer ausgeführt. 
+
+<img src="../Dokumentation/Images/Hacken.png">
+
+----
 
 ## Wurde die Ziele eingehalten? 
 Ansich bin ich sehr glücklich über mein Projekt. Ich habe doch einiges über Cloud gelernt, wo ich zuvor noch nichts wusste. 
@@ -79,6 +89,7 @@ Auch die Abeit hat mit sehr viel Spass gemacht und war zu keiner Zeit langweilig
 
 Ich habe bestimmte Termine, die ich mir gestellt habe nicht ganz eingehalten. Wie zum Beispiel die Produktion des Videos wurde eine Woche später fertigt oder der Chabot welcher eine Woche später fertig wurde und immer noch nicht ganz so funktioniet aber ansich bin ich sehr zufrieden. 
 
+----
 
 ## Teilerfolge? 
 Die gab es auf jeden fall. 
