@@ -17,15 +17,17 @@ Das Ziel alles am 4. Juli zu präsenitieren ist nicht ganz eingehalten, da ich n
 
     SMART – Ziele: 
 Spätestens eine Woche vor der Abgabe am 4.Juli ist mein Lernvideo und der Chatbot fertig. Die restliche Zeit wird fürs Überarbeitung der Dokumentation und Fehlerbehebung verwendet und dient als Puffer für anfällige Probleme oder nicht Einhaltung der Zeit. 
--	Ziel ist zudem, dass bis zum Anfang der Woche 5 (13.06.2022) das Lernvideo fertig erstellt wurde und alle relevanten Informationen enthalten sind. Z.B. Was ist eine Cloud?
--	Leitfragen: 
-o	Ist ein Chatbot vorhanden?
-o	Ist das Lernvideo informationell und verständlich? 
-o	Die Planung wurde eingehalten 
-o	Alle relevanten Ideen sind enthalten
+Ziel ist zudem, dass bis zum Anfang der Woche 5 (13.06.2022) das Lernvideo fertig erstellt wurde und alle relevanten Informationen enthalten sind. Z.B. Was ist eine Cloud?
+    Leitfragen: 
+    
+    - Ist ein Chatbot vorhanden?
+    - Ist das Lernvideo informationell und verständlich? 
+    - Die Planung wurde eingehalten 
+    - Alle relevanten Ideen sind enthalten
 
 
-    Meine Meinung:
+    Meine Meinung: 
+
 Die Plannung mit dem Lernvideo stimmt. Das ganze ist fertig erstellt, wurde aber noch nicht hochgeladen auf YT. 
 Der Chatbot selber wurde in der Woche auf den 04. Juli halbwegs fertig. Wie in bei der Realisierung geschrieben hat nicht alles so funktioniert wie ich es wollte. Dennoch ist ein Chatbot entstanden, welcher funktioniert. 
 Der Puffer hat einiges gebracht, da man hier noch einges erledigen konnte. 
