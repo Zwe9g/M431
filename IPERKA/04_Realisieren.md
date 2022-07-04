@@ -81,6 +81,11 @@ Wie man im Bild sieht, habe ich den Hacken entfehrt. Wenn ich den Hacken nicht e
 
 <img src="../Dokumentation/Images/Hacken.png">
 
+Wennn man das zweite Bild anschaut, sieht man das der Slot ausgeführt wird, wenn die Variable {AntwortAufKomunikation} ausgeführt wird. 
+
+<img src="../Dokumentation/Images/2Bild.png">
+
+
 ----
 
 ## Wurde die Ziele eingehalten? 
