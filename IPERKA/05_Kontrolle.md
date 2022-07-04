@@ -2,6 +2,8 @@
 Wenn ich mir so meinen Projektantrag anschaue, habe ich doch relativ viel erreicht und in den Zeitzielen abgeschlossen. 
 Schauen wir uns das doch mal an: 
 
+----
+
 ## Kontrollieren mit hilfe des Projektantrages.  
     Projektinhalt:
 Mein Ziel ist es, das Thema Cloud Computering besser zu verstehen und erklären zu können. Zudem möchte ich gerne selbst einen Chatbot auf der Amazon Cloud AWS entwickeln und benutzen. Dies möchte ich am 4.Juli.2022 zusammen mit einem eigens erstellten Lernvideo präsentieren zu können.

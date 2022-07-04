@@ -1,8 +1,12 @@
 # Entscheidung
 Um mich für ein Projekt zu entscheiden, habe ich die Nutzwertanalyse angewendet. Mit dieser Methode kann man seine Entscheidung untermauern. 
 
+---
+
 ## Wie geht das? 
 Unter einer Nutzwertanalyse versteht man ein Diagramm in Excel, Word und etc. Hierbei wird auf der linken Seite werden die Kriterien aufgelistet. Auf der Oberseite stehen dann die eintelnen Projekt. 
+
+---
 
 ## Meine Analyse: 
 Ich habe mich zwischen drei Projekten enschrieden,dies ist das Ergebnis. 
