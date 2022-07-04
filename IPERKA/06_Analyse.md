@@ -13,6 +13,7 @@ Ich gehe da mal von aus, dass irgendwo eintwas kleines fehlt.
 
 Die Aufnahme des Videos habe ich mir immer wieder vorher geschoben und war im der Qualitatä nicht ganz so zufireden. 
 
+----
 
 ## Wurden die Ressourcen Optimal eingesetzt? 
 Ich denke schon! 
@@ -22,6 +23,7 @@ Ansonsten haben die Materialien das geleistet was Sie sollten.
 Das einzige grosse Problem war die Zeit. 
 Richtung Ende des Projekts wurde es dann etwas stressiger, da es hier und da ein paar Projekte / Tests gab, die man natürlich nicht versemmeln wollte. Da den mitelweg zu finden ist nicht immer ganz leicht. 
 
+---
 
 ## Verbesserungen und Änderungen:
 In Zukunft würde ich gerne solche Projekte nicht mehr alleine machen, da der Druck eine sehr gute Note zu erziehlen höher ist und man zusammen finde ich noch mehr Spass haben kann. Aderer Seits ist es alleine etwas ruhiger. 
