@@ -44,14 +44,5 @@ Checksliste aus dem Projektantrag:
 
 ---
 
-## Checkliste: 
-
-
-
-
-
-
-
-
 Hier findet Ihr einen Link zur Analyse:
  ![06_Analyse.md](06_Analyse.md) 
