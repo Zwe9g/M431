@@ -4,6 +4,7 @@
 # Einführung:
 In dieser Dokumentation möchte ich euch gerne die Cloud etwas näherbringen. 
 Wenn ihr das Lesen zu langweilig findet, könnt ihr euch das Lernvideo anschauen: 
+https://www.youtube.com/watch?v=Grh5otB6fl0
 
 
 # Was ist eine Cloud:  
@@ -81,7 +82,7 @@ Service Model ist auch wieder unterteilt in drei Teile:
 
 
 
-Hier findet Ihr einen Link zur Dokumentation Chatbot und Video: 
+Hier findet Ihr einenben Link zur Dokumentation Chatbot und Video: 
 
 ![Dokumentation_Cloud](#M431 Dokumentation Chatbot.md)
 ![Dokumentation_Cloud](#M431 Dokumentation Video.md)

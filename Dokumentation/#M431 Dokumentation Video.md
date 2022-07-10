@@ -160,6 +160,10 @@ Die Cloud wird für uns immer wichtiger, es wird sich alles mehr in Richtung Clo
 Die grössten Anbieter sind AWS / AZURE / Google Cloud Plattform
 
  
+Video: 
+https://www.youtube.com/watch?v=Grh5otB6fl0
+
+
 ## Quellen: 
 https://www.youtube.com/watch?v=M988_fsOSWo&ab_channel=Simplilearn
 
