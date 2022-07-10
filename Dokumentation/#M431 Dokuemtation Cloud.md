@@ -2,18 +2,16 @@
 
 
 # Einführung:
-In dieser Dokumentation, möchte ich euch gerne die Cloud etwas näher bringen. 
-Wenn euch das lesen zu langweilig findet, könnt ihr euch das Lernvideo anschauen: 
+In dieser Dokumentation möchte ich euch gerne die Cloud etwas näherbringen. 
+Wenn ihr das Lesen zu langweilig findet, könnt ihr euch das Lernvideo anschauen: 
 
 
 # Was ist eine Cloud:  
-Stellt euch vor, Ihr sitzt in eurem Zimmer und arbeitet an eurem PC. 
-Auf einmal, schlägt ein Blitz direkt bei euch ein und eure Geräte gehen kaptutt. 
-Anstaht, nun zu eurem Lehrer zugehen und Ihm die Geschichte zu erklähren. "Kein Backup KEIN MITLEID!!"
-Steht Ihr auf und grinst und wisst, meine Daten sind sicher in der Cloud. 
+Stellt euch vor, ihr sitzt in eurem Zimmer und arbeitet an eurem PC. 
+Auf einmal schlägt ein Blitz direkt bei euch ein und eure Geräte gehen kaputt. 
+Anstatt nun zu eurem Lehrer zu gehen und ihm die Geschichte zu erklären "Kein Backup KEIN MITLEID!!", steht ihr auf, grinst und wisst, meine Daten sind sicher in der Cloud. 
 
-Wenn nun etwas in der Cloud gespeichert wird, heisst das so viel wie es wird auf einem Internetserver gespeichert, anstaht auf dem PC. 
-Ganz simpel gesagt, es funktioniert so ählich wie eine externe SSD / HDD, wenn du mit dem Internet verbunden bist.  
+Wenn nun etwas in der Cloud gespeichert wird, bedeutet das, es wird auf einem Internetserver gespeichert, anstatt auf dem PC. Ganz simpel gesagt, es funktioniert so ähnlich wie eine externe SSD / HDD, wenn du mit dem Internet verbunden bist.  
 
 
 ![Hier sollte ein Bild stehen](Images/01CloudComputing-01.jpg )
@@ -36,21 +34,21 @@ Deployment Model ist wiederum in drei Teile unterteilt.
 
  
 ## Public Cloud: 
-Bei der Public Cloud handelt es sich um einen Cloudmodel, wo Computerdienste über das Internet von verschiedenen Kunden genutzt werden. 
-Die Service werden von dem Kunden nicht vor Ort geostet. 
-Unternehmen, speicher hier gerne Ihre nicht so sensyblen Daten. 
+Bei der Public Cloud handelt es sich um ein Cloud-Model, wo Computerdienste über das Internet von verschiedenen Kunden genutzt werden. 
+Die Services werden von dem Kunden nicht vor Ort gehostet. 
+Unternehmen speichern hier gerne ihre nicht so sensiblen Daten. 
 
 ## Private Cloud:   
-Dies ist ein Cloud-Model, bei dem die Infrastruktur nur einem Unternehmen zugewiesen ist. Das heisst, nur das Unternehmen hat darauf zugriff, Externe Benutzer nicht! 
-In der Regel, sind die Unternehmen selber verantwortlich, dass System in Schuss zuhalten. 
+Dies ist ein Cloud-Model, bei dem die Infrastruktur nur einem Unternehmen zugewiesen ist. Das heisst, nur das Unternehmen hat darauf Zugriff, externe Benutzer nicht! 
+In der Regel sind die Unternehmen selbst verantwortlich, das System in Schuss zu halten. 
 
-Für eine Private Cloud, benötigt man einiges and IT-Know how. Im Gegensatzt erhält man mehr Kontrolle und Sicherheit als bei den anderen Modellen.  
+Für eine Private Cloud, benötigt man einiges an IT-Know-How. Im Gegensatz dazu erhält man mehr Kontrolle und Sicherheit als bei den anderen Modellen.  
 
-## Hybride Cloud: 
-Dieses Cloudmodel ist eine kombination aus Public und Private. 
-Der grosse Vorteil dieses Model ist, man kann die Daten problemlos zwischen Private und Public hin und her schieben.  
+## Hybrid Cloud: 
+Dieses Cloud-Model ist eine Kombination aus Public und Private Cloud. 
+Der grosse Vorteil dieses Models ist, man kann die Daten problemlos zwischen Private und Public hin- und herschieben.  
 
-# Service Model
+# Service Model:
 Service Model ist auch wieder unterteilt in drei Teile:      
     
     IAAS 
@@ -62,28 +60,28 @@ Service Model ist auch wieder unterteilt in drei Teile:
 
 ## IAAS 
 
-    - Steht für "Infrastrucktur as a Service"
-    - Hier bekommen die User Zutritt zu "Basic Computer Infrastruktur"
+    - Steht für "Infrastructure as a Service"
+    - Hier bekommen die User Zutritt zu "Basic Computer Infrastructure"
     - Dies wird in den meisten Fällen von IT-Administratoren benutzt
-    - BEi IAAS muss Ihr euch nur um Applicationen, Data, Runtime, Middleware und o/s kümmern 
-    - Den Rest übernimmt dier Cloudproieder
+    - BEi IAAS müsst ihr euch nur um Applikationen, Data, Runtime, Middleware und O/S kümmern 
+    - Den Rest übernimmt der Cloud-Provider
 
 ## PAAS
-    - Steht für "Plattform as a Service"
-    - Brauchbar für Defeloping, Testing und Manage von Aplikationen
-    - Dies erläubt den User, die Applikationen zu entwikel, ohne die Cloud zu Managen / Maintainen
-    - Sie müssen sich nur um Applicationen und Data kümmern 
+    - Steht für "Platform as a Service"
+    - Brauchbar für Developping, Testing und Managing von Applikationen
+    - Dies erlaubt es dem User, Applikationen zu entwickeln, ohne die Cloud zu managen / maintainen
+    - Sie müssen sich nur um Applikationen und Data kümmern 
 
 ## SAAS
     - Steht für "Software as a Servie"
-    - Dies beinhaltet: Hosting und Managing Appliaktionen 
+    - Dies beinhaltet: Hosting und Managing von Appliaktionen 
     - Für Unternehmen, die nicht wirklich IT-Geräte benötigen
-    - Hier wird alles gestellt von dem Cloud-Unternehmen 
+    - Hier wird alles von dem Cloud-Unternehmen gestellt
 
 
 
 
-Hier findet Ihr eine Link zur Dokumentation Chatbot und Video: 
+Hier findet Ihr einen Link zur Dokumentation Chatbot und Video: 
 
 ![Dokumentation_Cloud](#M431 Dokumentation Chatbot.md)
 ![Dokumentation_Cloud](#M431 Dokumentation Video.md)
