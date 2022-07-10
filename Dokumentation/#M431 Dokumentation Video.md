@@ -1,5 +1,5 @@
 # M431 Video
-Hier entstehen die Ideen und das Script fürs Video
+Hier entstehen die Ideen und das Script für das Video
 
 # Lernvideo
 
@@ -15,7 +15,7 @@ Hier entstehen die Ideen und das Script fürs Video
 
 # Projekt
 - Erster Schritt, ein Script erstellen 
-- Dies Script einüben bzw. überarbeiten
+- Dieses Script einüben bzw. überarbeiten
 - Überlegen, wo man dreht
 - Drehen
 - Schneiden 
@@ -24,42 +24,41 @@ Hier entstehen die Ideen und das Script fürs Video
 
 ## Aufnahmeprogramm
 Bei der mündlichen Aufnahme, verwende ich OBS. Hier kann ich nämlich nebst der Stimme auch ein Video aufnehmen. 
-Dies währe dann Praktisch wenn ich eine Animation besitze. Dann könnte ich auf die Animation sprechen. 
+Dies wäre dann praktisch, wenn ich eine Animation besitzen würde. Dann könnte ich auf die Animation sprechen. 
 
 Verwendet wird hier das kostenlose Aufnahmeprogramm OBS. 
 
 <img src="Images/OBS.png">   
 
-----
+---
 
 # Script:
 
 ## Videoaufbau:
-- Intro 	  = 	Kurz vor die Kamera stehen | Frage Stellen 
-- Staffel 1 = 	Kurz und logisch Erklähren was Cloud ist | Mit Bilder zeigen
-- Staffel 2 = 	Unterschied zweier Unternehmen: Ein ohne und ein mit Cloud
+- Intro 	= 	Kurz vor die Kamera stellen | Fragen stellen 
+- Staffel 1 = 	Kurz und logisch erklären, was Cloud ist | Mit Bildern zeigen
+- Staffel 2 = 	Unterschied zweier Unternehmen: Eines ohne und eines mit Cloud
 - Staffel 3 = 	Tiefer ins Thema Cloud 
 - Ende 	    = 	Nochmals kurz zusammenfassen 
 
 Wo wird gedreht?: 
-- Drausen ein Bild einer Wolke zeigen 
-- In meinem Zimmer an einer neutrallen Wand oder an Tisch mit Mikrofone 
+- Draussen ein Bild einer Wolke zeigen 
+- In meinem Zimmer an einer neutralen Wand oder am Tisch mit Mikrofon 
 
 # Intro: 
 
 Was ist Cloud Computing? 
-Hallöchien, ich bins Timm und in diesen 5 Minuten, erklähre ich euch was das ist. 
+Hallöchen, ich bin's Timm und in diesen 5 Minuten, erkläre ich euch, was das ist. 
 
 
 # Staffel 1: 
 
-Stellt euch vor, Ihr sitzt in eurem Zimmer und arbeitet an eurem PC. 
-Auf einmal, schlägt ein Blitz direkt bei euch ein und eure Geräte gehen kaptutt. 
-Anstaht, nun zu eurem Lehrer zugehen und Ihm die Geschichte zu erklähren. "Kein Backup KEIN MITLEID!!"
-Steht Ihr auf und grinst und wisst, meine Daten sind sicher in der Cloud. 
+Stellt euch vor, ihr sitzt in eurem Zimmer und arbeitet an eurem PC. 
+Auf einmal schlägt ein Blitz direkt bei euch ein und eure Geräte gehen kaputt. 
+Anstatt nun zu eurem Lehrer zu gehen und ihm die Geschichte zu erklären "Kein Backup KEIN MITLEID!!", steht ihr auf, grinst und wisst, meine Daten sind sicher in der Cloud. 
 
-Wenn nun etwas in der Cloud gespeichert wird, heisst das so viel wie es wird auf einem Internetserver gespeichert, anstaht auf dem PC. 
-Ganz simpel gesagt, es funktioniert so ählich wie eine externe SSD / HDD, wenn du mit dem Internet verbunden bist. 
+Wenn nun etwas in der Cloud gespeichert wird, bedeutet das, es wird auf einem Internetserver gespeichert, anstatt auf dem PC. 
+Ganz simpel gesagt, es funktioniert so ähnlich wie eine externe SSD / HDD, wenn du mit dem Internet verbunden bist. 
 
 
 # Staffel 2: 
@@ -68,34 +67,34 @@ Ganz simpel gesagt, es funktioniert so ählich wie eine externe SSD / HDD, wenn 
 ## Generelle Unterschiede: 
 
 Bei einem Unternehmen, welches nicht auf eine Cloud setzt: 
-- Zahlt man mehr für sein Setup und hat weniger möglichkeiten 
+- Zahlt man mehr für sein Setup und hat weniger Möglichkeiten 
 - Zudem ist es schwierig später abzurüsten, wenn es nicht mehr so gut läuft
 - Die Unterhaltskosten, sind zudem nicht gerade günstig.   
 
 Hingengen zu einer Cloud: 
-- Man Zahlt nur für das, was man benötigt / benutzt 
-- Es ist viel einfacher auf / bzw. abzurüsten 
+- Man zahlt nur für das, was man benötigt / benutzt 
+- Es ist viel einfacher auf- bzw. abzurüsten 
 
 
 ## Unterschied Speicher: 
 
 Unternehmen ohne Cloud: 
-- Man viel Platz für seine Server
+- Man benötigt viel Platz für seine Server
 - Zudem benötigt man viel Strom und Reparaturen 
 
 Unternehmen mit einer Cloud: 
-- Der Speicherplatz wird von den CLoudproviedern vergeben. Wie zum Beispeil Azure, AWS oder Google Cloud Plattform 
-- Sie Managen und warten die Server 
-- Damit sparren beide Geld und platzt 
+- Der Speicherplatz wird von den Cloud-Providern vergeben. Wie z.B. Azure, AWS oder Google Cloud Plattform 
+- Sie managen und warten die Server 
+- Damit sparen beide Geld und Platz 
 
 
 ## Daten Loss: 
 Unternehmen ohne Cloud: 
-- Hier ist eine wieder herstellung, sehr gering
+- Hier ist eine Wiederherstellung unwahrscheinlich
 
 Unternehmen mit Cloud: 
 - Hier ist es deutlich einfacher
-- Zudem geht dies auf viel schneller
+- Zudem geht dies auch viel schneller
 
 
 # Staffel 3: 
@@ -110,23 +109,23 @@ Deployment Model ist wiederum in drei Teile unterteilt.
 - Hybrid Cloud 
 
 
-Stehlt euch nun wieder vohr, Ihr müsst zur arbeit und habt drei Möglichkeiten. 
+Stellt euch nun wieder vor, ihr müsst zur Arbeit und habt drei Möglichkeiten. 
 
 ## Public Cloud: 
 - Als erstes habt ihr Züge
-- Sie stellen eine Public Cloud da 
-- In diesem Falle, ist die Cloud Infrastrukur zugänglich in Internet. 
+- Sie stellen eine Public Cloud dar 
+- In diesem Falle ist die Cloud Infrastrukur im Internet zugänglich 
 
 
 ## Private Cloud:
-- Ihr fäht mit eurem Sportwagen
-- Dies stellt die Private Cloud da
+- Ihr fahrt mit eurem Sportwagen
+- Dies stellt die Private Cloud dar
 - Hier wird die Cloud nur auf eure Bude ausgerichtet und steht nur euch zu. 
 
 ## Hybride Cloud: 
 - Dies ist das Taxi 
-- Dies steht die Hybride Cloud dar 
-- Das ganze ist ein Mix zwischen Public und Privat 
+- Dies stellt die Hybride Cloud dar 
+- Das ganze ist ein Mix zwischen Public und Private 
 
 
 
@@ -137,28 +136,28 @@ Service Model ist auch wieder unterteilt in drei Teile:
 - SAAS
 
 ## IAAS 
-- Hier bekommen die User Zutritt zu "Basic Computer Infrastruktur"
+- Hier bekommen die User Zutritt zu "Basic Computer Infrastructure"
 - Dies wird in den meisten Fällen von IT-Administratoren benutzt
-- BEi IAAS muss Ihr euch nur um Applicationen, Data, Runtime, Middleware und o/s kümmern 
-- Den Rest übernimmt dier Cloudproieder
+- BEi IAAS müsst ihr euch nur um Applikationen, Data, Runtime, Middleware und O/S kümmern 
+- Den Rest übernimmt der Cloud-Provider
 
 ## PAAS
-- Steht für "Plattform as a Service"
-- Brauchbar für Defeloping, Testing und Manage von Aplikationen
-- Dies erläubt den User, die Applikationen zu entwikel, ohne die Cloud zu Managen / Maintainen
-- Sie müssen sich nur um Applicationen und Data kümmern 
+- Steht für "Platform as a Service"
+- Brauchbar für Developping, Testing und Managing von Applikationen
+- Dies erlaubt dem User, die Applikationen zu entwickeln, ohne die Cloud zu managen / maintainen
+- Sie müssen sich nur um Applikationen und Data kümmern 
 
 ## SAAS
 - Steht für "Software as a Servie"
-- Dies beinhaltet: Hosting und Managing Appliaktionen 
+- Dies beinhaltet: Hosting und Managing von Appliaktionen 
 - Für Unternehmen, die nicht wirklich IT-Geräte benötigen
-- Hier wird alles gestellt von dem Cloud-Unternehmen 
+- Hier wird alles von dem Cloud-Unternehmen gestellt
 
 
 
 ## Ende: 
-Die Cloud wird für uns immer Wichtiger, es wird sich alles mehr in richtung CLoud zu bewegen. 
-Die Grössten Anbiter sind AWS / AZURE / Google Cloud Plattform
+Die Cloud wird für uns immer wichtiger, es wird sich alles mehr in Richtung Cloud zubewegen. 
+Die grössten Anbieter sind AWS / AZURE / Google Cloud Plattform
 
  
 ## Quellen: 

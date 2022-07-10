@@ -4,12 +4,12 @@ Um mich für ein Projekt zu entscheiden, habe ich die Nutzwertanalyse angewendet
 ---
 
 ## Wie geht das? 
-Unter einer Nutzwertanalyse versteht man ein Diagramm in Excel, Word und etc. Hierbei wird auf der linken Seite werden die Kriterien aufgelistet. Auf der Oberseite stehen dann die eintelnen Projekt. 
+Unter einer Nutzwertanalyse versteht man ein Diagramm in Excel, Word und etc. Hierbei werden auf der linken Seite die Kriterien aufgelistet. Auf der Oberseite stehen dann die einzelnen Projekte. 
 
 ---
 
 ## Meine Analyse: 
-Ich habe mich zwischen drei Projekten enschrieden,dies ist das Ergebnis. 
+Ich habe mich zwischen drei Projekten entschieden, dies ist das Ergebnis. 
 
     Punke: 1 | 3 | 5 | 7 | 10
                                  AWS Chabot      VPN-Router      Webseite 
@@ -24,16 +24,16 @@ Ich habe mich zwischen drei Projekten enschrieden,dies ist das Ergebnis.
     Entscheiden für AWS Chatbot
 
 Die meisten Prozente bekommt man bei der Sicht für die berufliche Zukunft. 
-Ich möchte gerne ein Programm erstellen, welches mich einen gewissen Grundstein für die Zukunft gibt. 
+Ich möchte gerne ein Programm erstellen, welches mir einen gewissen Grundstein für die Zukunft legt. 
 Da hat der AWS Chatbot 10 Punkte erhalten, da ich Cloud ein sehr spannendes Thema finde und gerne dies in der Zukunf machen würde. 
 Einen VPN-Router zu erstellen, wird sicher auch noch in Zukunft eine Rolle spielen. Im Netzwerkbereich. 
-Eine Webseite erstellen, wird bei uns von den Applis gemacht, ist aber sicher auch Interessant. 
+Eine Webseite erstellen wird bei uns von den Applis gemacht, ist aber sicher auch interessant. 
 
-Interess ist auch ein wichtiger Teil, da ich nicht ein Projekt erstellen will, welches mich nicht Interessiert! 
+Interesse ist auch ein wichtiger Teil, da ich kein Projekt erstellen möchte, welches mich nicht interessiert! 
 Cloud interessiert mich sehr und ist sicher auch spannend. 
-Ein VPN-Router währe für mich auch interessant aber nicht so mega:)
+Ein VPN-Router wäre für mich auch interessant aber nicht so mega:)
 
-Die restlichen Punke sind hoffentlich Selbserklährend 
+Die restlichen Punke sind hoffentlich selbserklärend. 
 
 
 Hier findet Ihr einen Link zu Realisierung:

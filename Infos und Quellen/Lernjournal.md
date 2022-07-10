@@ -1,6 +1,6 @@
 # Lernjournal 
 Ziel ist es hier, aufzuschreiben, was man an einem Tag gemacht hat. 
-Dabei soll der Text nicht "0 8 15" sein sondern Fleisch am Stecken haben. Wichtig ist auch, dass die Benotung hier bei 20 % liegt.  
+Dabei soll der Text nicht "0 8 15" sein, sondern Fleisch am Stecken haben. Wichtig ist auch, dass die Benotung hier bei 20 % liegt.  
 
 
 Unter diesem Link finden Sie mein Lernjournal: 

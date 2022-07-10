@@ -1,31 +1,31 @@
 # Analyse
 
 ## Wurden die Ziele erreicht? 
-Meine Ziele waren es, die Cloud besser kennen zulernen und zu verstehen wie Sie funktioniert. 
-Damit ich noch etwas praktischen Erledigen konnte, habe noch ein Video und einen Chatbot erstellt. 
+Meine Ziele waren es, die Cloud besser kennen zu lernen und zu verstehen, wie sie funktioniert. 
+Damit ich noch etwas Praktisches erledigen konnte, habe noch ein Video und einen Chatbot erstellt. 
 
 Grundsätzlich wurden meine Ziele erreicht. 
-Ich habe das erhfahren, was ich erfahren wollte, hatte meine Spass. 
-Wenn man nun etwas tiefer hinein Schaut, fällt einem auf, dass der Bot nicht ganz so funktioniert wie ich wollte oder das Video wurde nicht am gewünschten Tag fertig. 
+Ich habe das erfahren, was ich erfahren wollte, hatte meine Spass. 
+Wenn man nun etwas tiefer hineinschaut, fällt einem auf, dass der Bot nicht ganz so funktioniert, wie ich wollte oder das Video wurde nicht am gewünschten Tag fertig. 
 
-Bei Chatbot funktiniert die Symple funktion einwandfrei, kommt es hingegen zur auswahl, bockt es etwas herum und überspringt die jeweiligen Slots. Warum das genau passiert weiss ich leider nicht. Nach meiner logig sollte das nicht passieren. Computers hat. 
-Ich gehe da mal von aus, dass irgendwo eintwas kleines fehlt. 
+Bei Chatbot funktiniert die simple Funktion einwandfrei, kommt es hingegen zur Auswahl, bockt es etwas herum und überspringt die jeweiligen Slots. Warum das genau passiert, weiss ich leider nicht. Nach meiner Logik sollte das nicht passieren. Computer halt. 
+Ich gehe da mal von aus, dass irgendwo etwas Kleines fehlt. 
 
-Die Aufnahme des Videos habe ich mir immer wieder vorher geschoben und war im der Qualitatä nicht ganz so zufireden. 
+Die Aufnahme des Videos habe ich immer vor mir hergeschoben und war mit der Qualität nicht ganz so zufrieden. 
 
 ----
 
-## Wurden die Ressourcen Optimal eingesetzt? 
+## Wurden die Ressourcen optimal eingesetzt? 
 Ich denke schon! 
 Das kostenlose Limit von AWS habe ich immer nur ganz leicht überschritten. 
-Ansonsten haben die Materialien das geleistet was Sie sollten. 
+Ansonsten haben die Materialien das geleistet, was sie sollten. 
 
-Das einzige grosse Problem war die Zeit. 
-Richtung Ende des Projekts wurde es dann etwas stressiger, da es hier und da ein paar Projekte / Tests gab, die man natürlich nicht versemmeln wollte. Da den mitelweg zu finden ist nicht immer ganz leicht. 
+Das einzig grosse Problem war die Zeit. 
+Richtung Ende des Projekts wurde es dann etwas stressiger, da es hier und da ein paar Projekte / Tests gab, die man natürlich nicht versemmeln wollte. Da den Mittelweg zu finden, ist nicht immer ganz leicht. 
 
 ---
 
 ## Verbesserungen und Änderungen:
-In Zukunft würde ich gerne solche Projekte nicht mehr alleine machen, da der Druck eine sehr gute Note zu erziehlen höher ist und man zusammen finde ich noch mehr Spass haben kann. Aderer Seits ist es alleine etwas ruhiger. 
+In Zukunft würde ich gerne solche Projekte nicht mehr alleine machen, da der Druck, eine sehr gute Note zu erzielen, höher ist und man zusammen, finde ich, noch mehr Spass haben kann. Adererseits ist es alleine etwas ruhiger. 
 
-Die Zeitplanung muss ich in Zukunft etwas mehr lernen und auch das regelmäsige Arbeiten an dem Projekt mus gelernt sein. 
+Die Zeitplanung muss ich in Zukunft etwas mehr lernen und auch das regelmäsige Arbeiten an dem Projekt muss gelernt sein. 
