@@ -85,6 +85,23 @@ Wennn man das zweite Bild anschaut, sieht man, dass der Slot ausgeführt wird, w
 
 <img src="../Dokumentation/Images/2Bild.png">
 
+Am letzten Tag: 
+Vor der Präsentation, ist mein Chatbot abgeschmiert!!!
+Ich habe den Namen vom der Absicht "DasEnde" angepasst. Als ich nun den Bot erstellt habe, erscheint eine Meldung, die Behaubtet, dass man "DasEnde" löschen soll, da Amazon.Int bereits exestiert. 
+
+<img src="../Dokumentation/Images/Fehlermeldung.png">
+
+Mein Problem ist allerdings, dass Amazon.Int als Absicht nicht existiert und auch nirgends verlinkt wurde und daher für mich keinen Sin macht. 
+
+<img src="../Dokumentation/Images/Absichten.png">
+
+Wenn man nun den Befehl der Meldung befolgt, sollte man DasEnde löschen, NUR funktioniert ganau das nicht!! Wilkommen, Blumenbestelleun und WilstDuMitMirChaten kann man löschen :(
+
+<img src="../Dokumentation/Images/xy_Speichern_true.png">
+
+<img src="../Dokumentation/Images/xy_Speichern_false.png">
+
+
 ----
 
 ## Wurden die Ziele erreicht? 
